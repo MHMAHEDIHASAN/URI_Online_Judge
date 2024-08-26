@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{
-    double A,B,C,i,j,k,temp;
+{   double A,B,C,i,j,k,temp;
     scanf("%lf %lf %lf",&A,&B,&C);
     if(A<B)
     {
@@ -40,7 +39,5 @@ int main()
         else if (A==B ||B==C || C==A)
             printf("TRIANGULO ISOSCELES\n") ;
     }
-
-
-    return 0;
+     return 0;
 }
