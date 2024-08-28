@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
-{
-    int a, b, c, d;
+{   int a, b, c, d;
     int dif;
     scanf("%d %d %d %d", &a, &c, &b, &d);
     dif = ((b*60)+d) - ((a*60)+c);
