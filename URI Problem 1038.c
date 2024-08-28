@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{
-    int X,Y;
+{   int X,Y;
     scanf("%d%d",&X,&Y);
     float snack;
     float  ar[5]= {4.00,4.50,5.00,2.00,1.50};
