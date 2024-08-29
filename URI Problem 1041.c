@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
-{   float x,y;
+{   
+    float x,y;
     scanf("%f %f",&x,&y);
     if(x == 0.0)
     {
