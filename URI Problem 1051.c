@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     double sal;
     scanf("%lf", &sal);
     
