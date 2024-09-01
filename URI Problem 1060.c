@@ -1,8 +1,7 @@
 #include<stdio.h>
  
 int main()
-{
-    float x;
+{   float x;
     int i,sum=0;
     for(i=1;i<=6;i++){
         scanf("%f",&x);
