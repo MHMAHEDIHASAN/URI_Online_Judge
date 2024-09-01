@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
-{   
-    int N;
+{   int N;
     scanf("%d",&N);
     if(N==61)
         printf("Brasilia\n");
