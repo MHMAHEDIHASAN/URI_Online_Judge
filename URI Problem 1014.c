@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{
-    int X;
+{   int X;
     double Y,Average;
     scanf("%d%lf",&X,&Y);
     Average=X/Y;
