@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main()
-{
-    double sal;
+{   double sal;
     scanf("%lf", &sal);
     
     if(sal <= 2000.00){
