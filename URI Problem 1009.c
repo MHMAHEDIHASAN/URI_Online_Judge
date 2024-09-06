@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{   
-    char  employees_first_name[30];
+{   char  employees_first_name[30];
     double sellers_salary,total_value_sold,TOTAL;
 
     gets( employees_first_name);
