@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
-{   float N;
+{   
+    float N;
     scanf("%f",&N);
     if(N<0.00 || N>100.00)
     {
