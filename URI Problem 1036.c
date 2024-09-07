@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include <math.h>
 int main()
-{
- double a, b, c, t;
+{ double a, b, c, t;
  scanf("%lf %lf %lf", &a, &b, &c);
 
  if(((b * b) - 4 * a * c) < 0 || a == 0){
