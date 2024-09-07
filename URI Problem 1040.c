@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main ()
-{   
-    float a,b,c,d,e;
+{   float a,b,c,d,e;
     double avg1,avg2;
     scanf("%f %f %f %f",&a,&b,&c,&d);
     avg1=((a*2)+(b*3)+(c*4)+d)/10;
