@@ -1,8 +1,7 @@
 #include<stdio.h>
 #define pi  3.14159
 int main()
-{
-    double A,B,C,TRIANGULO,CIRCULO,TRAPEZIO,QUADRADO,RETANGULO;
+{   double A,B,C,TRIANGULO,CIRCULO,TRAPEZIO,QUADRADO,RETANGULO;
     scanf("%lf%lf%lf",&A,&B,&C);
 
     TRIANGULO=(0.5*A*C);
