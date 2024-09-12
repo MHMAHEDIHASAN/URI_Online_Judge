@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
-{   double A,B,C,i,j,k,temp;
+{  
+    double A,B,C,i,j,k,temp;
     scanf("%lf %lf %lf",&A,&B,&C);
     if(A<B)
     {
