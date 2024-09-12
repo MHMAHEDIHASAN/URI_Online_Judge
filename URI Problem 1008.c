@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
-{   int NUMBER,HOURS;
+{   
+    int NUMBER,HOURS;
     double  SALARY_PER_HOURS,SALARY;
     scanf("%d%d%lf",&NUMBER,&HOURS,&SALARY_PER_HOURS);
     SALARY= HOURS *SALARY_PER_HOURS  ;
