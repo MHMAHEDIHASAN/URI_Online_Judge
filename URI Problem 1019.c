@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{
-    int H,M,S;
+{   int H,M,S;
     scanf("%d",&S);
     H=0;
     M=0;
