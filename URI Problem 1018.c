@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{
-    int N;
+{   int N;
     scanf("%d",&N);
     printf("%d\n",N);
     printf("%d nota(s) de R$ 100,00\n",N/100);
