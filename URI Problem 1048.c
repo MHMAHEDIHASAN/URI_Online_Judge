@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main()
-{   
-    float a,s,m;
+{   float a,s,m;
     int p;
     char c ='%';
     scanf("%f",&a);
