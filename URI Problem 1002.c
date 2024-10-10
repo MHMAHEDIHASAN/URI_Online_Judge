@@ -1,6 +1,6 @@
 #include<stdio.h>
 #define pi 3.14159
-int main()
+int main ()
 {   double R,A;
     scanf("%lf",&R);
     A = pi * R * R;
